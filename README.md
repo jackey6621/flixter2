@@ -1,27 +1,22 @@
-# Project 3 - *Name of App Here*
+# Project 3 - flixter2
 
-Submitted by: **Your Name Here**
+Submitted by: Jingyuan Yang
+Jingyuan Yang is an app that introduces current playing movies.
 
-**Name of your app** is an app that introduces networking ... [TODO] 
-
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Implement network call and table view to display a list of movies currently playing (title, description, image)
-- [ ] App has a collection view with the same list of movies
-- [ ] Uses a tab bar controller to switch between collection view and table view screens
+- [x] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [x] App has a collection view with the same list of movies
+- [x] Uses a tab bar controller to switch between collection view and table view screens
  
 The following **optional** features are implemented:
 
 - [ ] Make an additional network call to another end-point.	
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -42,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jingyuan Yang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
